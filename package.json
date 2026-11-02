@@ -1,6 +1,6 @@
 {
   "name": "@dloizides/ad-slot",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Consent-gated ad slot for marketing sites: a reserved box per format so nothing shifts, a consent port and an injected provider. No publisher id means no request. No DOM framework, no third-party script.",
   "keywords": [
     "ads",
